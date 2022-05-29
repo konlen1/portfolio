@@ -1,0 +1,45 @@
+Description of the Data and the Data File
+Intel conducted a survey with university alumni who graduated after 1996. 
+A total of about 1,000 alumni complete the survey, a response rate of 2%. The data file consists of the following variables 
+(e.g., product attributes) which are based on the key questions in the conducted survey:
+1. ConstCom (= Constant communication): The ability to receive subtle notifications at all times about messages and emails from family, 
+friends, and work. Participants rated the importance of the product attribute on a 7-point Likert-scale (1 = “very unimportant” to 7 = “very important”).
+
+2. TimelyInf (= Timely information): The ability to receive up-to-the-minute smart (based on context) traffic updates, route updates on directions, weather updates, 
+calendar reminders, or business/sports/entertainment updates. Participants rated the importance of the product attribute on a 7-point Likert-scale 
+(1 = “very unimportant” to 7 = “very important”).
+
+3. TaskMgm (= Task management): The ability to automate tasks or perform them instantly, such as placing an online order as soon as something is running low 
+(e.g., toilet paper refill needed) or immediately add something to a to-do list or calendar with voice requests or touch of a button. 
+Participants rated the importance of the product attribute on a 7-point Likert-scale (1 = “very unimportant” to 7 = “very important”).
+
+4. DeviceSt (= Device sturdiness): The ability not to worry about losing or damaging the device or having to recharge its battery. 
+Participants rated the importance of the product attribute on a 7-point Likert-scale (1 = “very unimportant” to 7 = “very important”).
+
+5. Wellness (= Well-being): The ability to receive subtle reminders and smart goals to sleep regularly, take enough steps each day, change position (not sit too much), 
+and breathe deeply. Participants rated the importance of the product attribute on a 7-point Likert-scale (1 = “very unimportant” to 7 = “very important”).
+
+6. Athlete: The ability to receive challenging fitness and athletic goals, smart coaching to improve performance (e.g., build to a faster 10-mile run), 
+and multi-sport performance tracking (biking, running, swimming), as well as route mapping and guidance. 
+Participants rated the importance of the product attribute on a 7-point Likert-scale (1 = “very unimportant” to 7 = “very important”).
+
+7. Style: The ability to wear stylish, fashion forward accessories that look great with many outfits. 
+Participants rated the importance of the product attribute on a 7-point Likert-scale (1 = “very unimportant” to 7 = “very important”).
+
+8. AmznP: Do you have an Amazon Prime account? (1 = Yes, 0 = No.)
+
+9. Female: What is your gender? (1 = Female, 0 = Male).
+
+10. Degree: What best describes your highest level of education? (1 = Undergraduate degree, 2 = Master’s degree or higher, such as an M.D. or Ph.D.)
+
+
+11. Income: What best describes your annual household income? (1 = Below $40K, 2 = $40-$70K, 3 = $71-100K, 4 = $101K-$175K, 5 = Greater than $175K.)
+
+12. Age: How old are you? Measured in years.
+
+4) Case Study Questions
+
+Based on your data analyses:
+1. How many distinct and meaningful segments are present in the market? Please determine the number of distinct segments present in the market as represented in the current respondent sample.
+2. How would you describe each identified segment? Please provide a detailed description of each identified segment using the variables in the data set (e.g., their mean values). Based on the segment characteristics, create a name for each segment that captures the essence of what makes it unique.
+3. Which segment should be targeted by Intel? How should Intel position themselves to compete strongly in the targeted segment(s)? Please provide a detailed discussion of each identified segment, based on the attractiveness of the segment for Intel and the strength of competitors’ offerings (e.g., Samsung, Apple, etc.). Explain the factors that you used to rate the attractiveness of each segment and Intel’s competitive strength.
